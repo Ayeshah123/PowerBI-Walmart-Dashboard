@@ -1,2 +1,2 @@
 # PowerBI-Walmart-Dashboard
-Interactive Power BI dashboard of Walmart Sales &amp; Profitability Trend Analysis across Products, Customers &amp; Geography (2011-2014).
+Interactive Power BI dashboard using the Walmart Sales dataset (Kaggle) to analyze Sales & Profitability trends across Products, Customers & Geography (2011–2014). For learning & practice only.
