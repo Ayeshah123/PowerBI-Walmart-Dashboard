@@ -20,7 +20,7 @@ Interactive Power BI dashboard using the Walmart Sales dataset (Kaggle) to analy
   👉 Customer: ID, Name, City, State, Country, Continent, Segment  
 
 - 1 Fact Table:  
-  👉 Sales: Customer ID, Order ID, Product ID, Profit, Sales Quantity, Sales, Shipping Cost, Profit Margin, %Profit Margin, Cost of Goods Sold, Sales (in Million)  
+  👉 Sales: Customer ID, Order ID, Product ID, Profit, Sales Quantity, Sales, Shipping Cost, Profit Margin, %Profit Margin, Cost of Goods Sold, Sales (in Millions)  
 
 ---
 
@@ -29,6 +29,13 @@ Interactive Power BI dashboard using the Walmart Sales dataset (Kaggle) to analy
   👉 Sales & Profitability Overview -> KPIs, sales & profit trends  
   👉 Product Performance -> Category & Sub-Category analysis  
   👉 Customer & Geography Insights -> customer segments, regional sales  
+
+---
+
+## Project Files
+📊 [Power BI File (.pbix)](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/BeyondSales-TrackingProfitTrend.pbix)
+📊 [Power BI PDF](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/BeyondSales-TrackingProfitTrend.pdf)
+📁 [Dataset (.txt)](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/Walmart.txt) (*Practice Dataset from Kaggle)
 
 ---
 
