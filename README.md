@@ -33,9 +33,9 @@ Interactive Power BI dashboard using the Walmart Sales dataset (Kaggle) to analy
 ---
 
 ## Project Files
-📊 [Power BI File (.pbix)](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/BeyondSales-TrackingProfitTrend.pbix)
-📊 [Power BI PDF](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/BeyondSales-TrackingProfitTrend.pdf)
-📁 [Dataset (.txt)](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/Walmart.txt) (*Practice Dataset from Kaggle)
+- 📊 [Power BI File (.pbix)](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/BeyondSales-TrackingProfitTrend.pbix)
+- 📊 [Power BI PDF](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/BeyondSales-TrackingProfitTrend.pdf)
+- 📁 [Dataset (.txt)](https://github.com/Ayeshah123/PowerBI-Walmart-Dashboard/blob/main/Walmart.txt) (*Practice Dataset from Kaggle)
 
 ---
 
